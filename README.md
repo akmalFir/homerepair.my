@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # homerepair.my
-My Final Year Project as Bachelor's of Software Engineering at University Malaysia Of Computer Science &amp; Engineering.
+Final Year Project for Bachelor's of Software Engineering (hons.) at University Malaysia Of Computer Science &amp; Engineering.
 =======
 # home_repair_service
 
